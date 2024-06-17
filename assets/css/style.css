@@ -6973,8 +6973,15 @@ textarea:-ms-input-placeholder {
     padding: 0;
 	justify-content:center;
     list-style: none;
+    gap:20px;
 }
-
+.facebook i {
+    color: #f9004d;
+    font-size: 20px;
+}
+.description{
+    font-size:22px;
+}
 .color-white {
     color: var(--color-white) !important;
 }
@@ -17821,7 +17828,6 @@ span.sr-only {
     height: 60px;
     line-height: 60px;
     text-align: center;
-    font-size: 14px;
     letter-spacing: 2px;
     text-transform: uppercase;
     border-radius: 6px;
@@ -17830,7 +17836,9 @@ span.sr-only {
     box-shadow: var(--shadow-1);
     position: relative;
 }
-
+.footer-style-2 .social-icone-wrapper .social-share li a:hover i{
+    color:#fff;
+}
 .footer-style-2 .social-icone-wrapper .social-share li a::after {
     content: "";
     position: absolute;

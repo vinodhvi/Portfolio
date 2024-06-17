@@ -1,0 +1,43 @@
+Web/Frontend Developer with 2.5 years of hands-on experience in HTML, CSS, and JavaScript. 
+Proficient in WordPress CMS for content management and adept at leveraging 
+JavaScript frameworks such as React.js, Next.js, and Angular.js to develop 
+responsive and dynamic websites. Skilled in building dynamic websites and
+ensuring cross-browser compatibility. Proven ability to collaborate effectively in 
+team environments to deliver high-quality projects within deadlines. Seeking to leverage
+technical skills and creative problem-solving abilities in a dynamic work environment.
+
+Angler
+
+Develop and maintain user interfaces using React.js, Angular.js, and Next.js (Static Websites).
+Implement and customize WordPress themes and plugins to meet project requirements.
+Collaborate with designers to translate Photoshop and Figma designs into functional web pages.
+Ensure cross-browser compatibility and responsiveness of web applications.
+Utilize Bootstrap (versions 3, 4, and 5) to create consistent and scalable 
+web designs.
+Collaborate effectively in cross-functional teams, including designers, developers, and project managers, to deliver projects on time
+Manage annual maintenance for clients, including regular updates and performance checks.
+Work closely with backend developers to integrate APIs and other services - remove this point 
+Maintain and update websites after launch, fixing issues and implementing improvements.
+
+PROJECTS AND RESPONSIBILITY - remove  RESPONSIBILITY
+Website			    - Web Projects / My works
+
+add in react 
+https://vendorascmsoftware.com/lp/vendor-management-software
+
+Skill set -
+
+HTML5 and CSS3
+Wordpress
+JavaScript
+React.js
+Angular.js
+next.js
+Bootstrap
+Responsive Design
+Cross Browser Compatibility
+Accessibility Standards
+Mobile-first Development Practices
+User Interface Design
+Web Performance Optimization
+
