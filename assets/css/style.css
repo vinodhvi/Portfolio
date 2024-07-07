@@ -571,7 +571,7 @@ ol ul {
 
 @media only screen and (max-width: 767px) {
     .rn-section-gap {
-        padding: 80px 0;
+        padding:40px 0;
     }
 }
 
@@ -18324,7 +18324,7 @@ span.sr-only {
         padding: 18px;
     }
     .home-classic .portfolio-style-two {
-        padding: 60px 0 30px 0 !important;
+        padding: 30px 0 30px 0 !important;
     }
 }
 
@@ -18427,7 +18427,7 @@ span.sr-only {
 
 @media only screen and (max-width: 767px) {
     .portfolio-style-two .carousel-inner .carousel-item .portfolio-single .thumbnail {
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
 }
 
@@ -18508,7 +18508,7 @@ span.sr-only {
 
 @media only screen and (max-width: 767px) {
     .portfolio-style-two .carousel-inner .carousel-item .portfolio-single .inner p.discription {
-        margin-bottom: 15px;
+        margin-bottom: 0x;
     }
 }
 
