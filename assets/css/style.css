@@ -312,7 +312,8 @@ h6 a,
     }
     h5,
     .h5 {
-        font-size: 16px;
+        font-size: 18px;
+        margin-bottom: 15px !important;
     }
 }
 
@@ -18246,22 +18247,22 @@ span.sr-only {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .portfolio-style-two .carousel.slide {
-        padding: 30px !important;
-        margin-top: 30px;
+        padding: 10px 30px 30px 30px !important;
+        margin-top: 0;
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .portfolio-style-two .carousel.slide {
-        padding: 30px !important;
-        margin-top: 20px;
+        padding: 10px 30px 30px 30px !important;
+        margin-top: 0;
     }
 }
 
 @media only screen and (max-width: 767px) {
     .portfolio-style-two .carousel.slide {
-        padding: 30px !important;
-        margin-top: 20px;
+        padding: 10px 30px 30px 30px !important;
+        margin-top: 0;
     }
 }
 
@@ -18309,6 +18310,10 @@ span.sr-only {
     .portfolio-style-two .carousel.slide .carousel-control-prev {
         top: 703px;
     }
+    .portfolio-style-two .carousel.slide .carousel-control-next svg, .portfolio-style-two .carousel.slide .carousel-control-prev svg {
+        width: 20px;
+  
+    }
 }
 
 @media only screen and (max-width: 767px) {
@@ -18316,7 +18321,10 @@ span.sr-only {
     .portfolio-style-two .carousel.slide .carousel-control-prev {
         top: 106%;
         border-radius: 20%;
-        padding: 26px;
+        padding: 18px;
+    }
+    .home-classic .portfolio-style-two {
+        padding: 60px 0 30px 0 !important;
     }
 }
 
@@ -18352,15 +18360,15 @@ span.sr-only {
 
 @media only screen and (max-width: 767px) {
     .portfolio-style-two .carousel.slide .carousel-control-next {
-        right: auto;
-        left: 15%;
+        left: 85%;
+        top: 70%;
     }
 }
 
 @media only screen and (max-width: 479px) {
     .portfolio-style-two .carousel.slide .carousel-control-next {
-        right: auto;
-        left: 27%;
+        left: 85%;
+        top: 70%;
     }
 }
 
@@ -18382,7 +18390,8 @@ span.sr-only {
 
 @media only screen and (max-width: 767px) {
     .portfolio-style-two .carousel.slide .carousel-control-prev {
-        left: 0;
+        left: 70%;
+        top: 70%;
     }
 }
 

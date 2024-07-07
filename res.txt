@@ -1,23 +1,22 @@
-Web/Frontend Developer with 2.5 years of hands-on experience in HTML, CSS, and JavaScript. 
-Proficient in WordPress CMS for content management and adept at leveraging 
-JavaScript frameworks such as React.js, Next.js, and Angular.js to develop 
-responsive and dynamic websites. Skilled in building dynamic websites and
-ensuring cross-browser compatibility. Proven ability to collaborate effectively in 
-team environments to deliver high-quality projects within deadlines. Seeking to leverage
-technical skills and creative problem-solving abilities in a dynamic work environment.
 
-Angler
+Web/Frontend Developer
 
-Develop and maintain user interfaces using React.js, Angular.js, and Next.js (Static Websites).
-Implement and customize WordPress themes and plugins to meet project requirements.
-Collaborate with designers to translate Photoshop and Figma designs into functional web pages.
-Ensure cross-browser compatibility and responsiveness of web applications.
-Utilize Bootstrap (versions 3, 4, and 5) to create consistent and scalable 
-web designs.
-Collaborate effectively in cross-functional teams, including designers, developers, and project managers, to deliver projects on time
-Manage annual maintenance for clients, including regular updates and performance checks.
-Work closely with backend developers to integrate APIs and other services - remove this point 
-Maintain and update websites after launch, fixing issues and implementing improvements.
+PROFESSIONAL PROFILE:
+
+Web/Frontend Developer with 2.5 years of hands-on experience in HTML, CSS, and JavaScript. Proficient in WordPress CMS for content management and midlevel in JavaScript frameworks such as React.js, Next.js, and Angular.js to develop responsive websites. Skilled in building dynamic websites and ensuring cross-browser compatibility. Proven ability to collaborate effectively in team environments to deliver high-quality projects within deadlines. Seeking to leverage my technical skills and creative problem-solving abilities in a dynamic work environment.
+
+Angler Experience
+1.Writing clean, efficient, and maintainable code using HTML, CSS, and JavaScript
+2.Develop and maintain user interfaces using React.js, Angular.js, and Next.js (Static Websites).
+3.Implement and customize WordPress themes and plugins to meet project requirements.
+4.Collaborate with designers to translate Photoshop(PSD) and Figma designs into functional(HTML) web pages.
+5.Ensure cross-browser compatibility and responsiveness of web applications.
+6.Utilize Bootstrap (versions 3, 4, and 5) to create consistent and scalable web designs.
+7.Collaborate effectively in cross-functional teams, including designers, developers, and project managers, to deliver projects on time
+8.Manage annual maintenance for clients, including regular updates and performance checks.
+9.Maintain and update websites after launch, fixing issues and implementing improvements.
+10.Work closely with backend developers to integrate APIs and other services - remove this point 
+
 
 PROJECTS AND RESPONSIBILITY - remove  RESPONSIBILITY
 Website			    - Web Projects / My works
@@ -40,4 +39,19 @@ Accessibility Standards
 Mobile-first Development Practices
 User Interface Design
 Web Performance Optimization
+Git
+
+Remove INTERESTS and add Skill level 
+
+skill level 
+Wordpress - 70%
+Html- 80%
+CSS - 80%
+Js - 50%
+React - 50%
+Angular - 50%
+Next js- 50%
+
+
+
 
